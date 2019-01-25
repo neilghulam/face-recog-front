@@ -1,0 +1,16 @@
+.jxrs {
+    color: orange;
+    background-color: orchid;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+   
+}
+
+
+.form {
+    width: 700px;
+    background: rgb(0, 0, 255);
+   
+}
+

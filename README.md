@@ -1,3 +1,16 @@
+
+A project app, that uses a face detection API to find the area of the face.  Using React for the frontend, node.js and express for the server and PostgreSQL for the database.
+
+### For the backend repo for this project please go to https://github.com/neilghulam/face-recog-back
+
+
+
+
+--------------------------------
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
